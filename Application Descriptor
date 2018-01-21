@@ -1,0 +1,9 @@
+MIDlet-1: OlaroundMidlet,,com.tenpearls.olaround.OlaroundMidlet
+MIDlet-Jar-URL: Olaround.jar
+MIDlet-Permissions-Opt: javax.microedition.io.Connector.http,javax.microedition.io.Connector.https,javax.microedition.io.Connector.socket
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Version: 1.0.0
+MIDlet-Name: Olaround
+MIDlet-Vendor: TenPearls
+MicroEdition-Profile: MIDP-2.1
+MIDlet-Permissions: javax.microedition.io.Connector.http,javax.microedition.io.Connector.file.read

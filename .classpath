@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="libs/json-me.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/jazzlib-j2me-0.0.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/FaceBook-lib.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/QR-code-lib.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/maps-components.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/maps-core.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="con" path="org.elipse.mtj.JavaMEContainer/Nokia SDK 2.0 for Java/Nokia_SDK_2_0_Java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
